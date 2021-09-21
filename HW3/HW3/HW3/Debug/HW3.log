@@ -1,0 +1,9 @@
+﻿  muller.c
+D:\Desktop\HW3\HW3\HW3\nr.h(157,20): warning C4273: 'erff': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(552,47): message : 'erff'의 이전 정의를 참조하십시오.
+D:\Desktop\HW3\HW3\HW3\muller.c(38,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\HW3\HW3\HW3\muller.c(39,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\HW3\HW3\HW3\muller.c(48,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\HW3\HW3\HW3\muller.c(49,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\HW3\HW3\HW3\muller.c(66,8): warning C4101: 'xacc' :참조되지 않은 지역 변수입니다.
+  HW3.vcxproj -> D:\Desktop\HW3\HW3\Debug\HW3.exe

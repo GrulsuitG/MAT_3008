@@ -1,0 +1,4 @@
+﻿  NA_GraphView.cpp
+C:\Users\user\source\repos\NA_Graph\NA_Graph\NA_GraphView.cpp(74,32): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\NA_Graph\NA_Graph\NA_GraphView.cpp(75,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NA_Graph.vcxproj -> C:\Users\user\source\repos\NA_Graph\Debug\NA_Graph.exe
