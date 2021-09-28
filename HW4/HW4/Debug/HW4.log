@@ -1,0 +1,7 @@
+﻿  bisection.c
+C:\Users\qjawl\source\repos\HW4\HW4\nr.h(157,20): warning C4273: 'erff': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(550,47): message : 'erff'의 이전 정의를 참조하십시오.
+C:\Users\qjawl\source\repos\HW4\HW4\bisection.c(18,73): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjawl\source\repos\HW4\HW4\bisection.c(35,18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjawl\source\repos\HW4\HW4\bisection.c(41,18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  HW4.vcxproj -> C:\Users\qjawl\source\repos\HW4\Debug\HW4.exe
