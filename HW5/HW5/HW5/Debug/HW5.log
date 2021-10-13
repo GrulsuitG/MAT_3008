@@ -1,0 +1,4 @@
+﻿  gauss.c
+C:\Users\qjawl\source\repos\HW5\HW5\gauss.c(17,34): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+C:\Users\qjawl\source\repos\HW5\HW5\gauss.c(82): warning C4716: 'gauss': 값을 반환해야 합니다.
+  HW5.vcxproj -> C:\Users\qjawl\source\repos\HW5\Debug\HW5.exe
