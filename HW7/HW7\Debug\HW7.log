@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(21,23): warning C4244: '=': 'time_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(38,15): warning C4013: 'vector'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(38,22): warning C4047: '=': 'float *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(39,15): warning C4013: 'matrix'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(39,29): warning C4047: '=': 'float **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(40,23): warning C4013: 'convert_matrix'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(40,47): warning C4047: '=': 'float **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(54,24): warning C4013: 'free_convert_matrix'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(55,16): warning C4013: 'free_matrix'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\qjawl\source\repos\HW7\HW7\main.c(56,16): warning C4013: 'free_vector'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW7.vcxproj -> C:\Users\qjawl\source\repos\HW7\Debug\HW7.exe
